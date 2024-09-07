@@ -30,9 +30,6 @@ const useStyles = makeStyles((theme) => ({
       textDecoration: 'none',
     },
   },
-  icon: {
-    marginRight: theme.spacing(2),
-  },
   heroContent: {
     backgroundColor: theme.palette.background.paper,
     padding: theme.spacing(8, 0, 6),
